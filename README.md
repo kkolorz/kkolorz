@@ -11,9 +11,9 @@
 </h2>
 <p align="center">
   My name is Karol <br><br>
-  I'm novice Front-end Developer from Poland <br>
-  My main goal is became Junior Front-end Developer and achive first commercial experience <br><br>
-  Take a look on my projects 🙂
+  I'm a novice Front-end Developer from Poland <br>
+  My main goal is to become Junior Front-end Developer and achieve first commercial experience <br><br>
+  Take a look at my projects 🙂
 </p>
 
 ---
@@ -31,7 +31,7 @@
 </h2>
 
 <p align="center">
-  You can send me a message on address karolkolorzdev@gmail.com
+  You can send me a message at the address <strong>karolkolorzdev@gmail.com</strong>
 </p>
 
 <!--
