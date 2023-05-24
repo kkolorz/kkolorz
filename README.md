@@ -12,7 +12,6 @@
 <p align="center">
   My name is Karol <br><br>
   I'm a novice Front-end Developer from Poland <br>
-  I'm an ambitious person who pays great attention to details. I want to expand my knowledge in the field of web development. <br>
   My main goal is to become Junior Front-end Developer and achieve first commercial experience <br><br>
   Take a look at my projects 🙂
 </p>
